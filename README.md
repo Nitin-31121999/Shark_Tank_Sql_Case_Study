@@ -1,15 +1,17 @@
-Playstore Apps - SQL Data Analysis Case Study
-Overview
+## Playstore Apps - SQL Data Analysis Case Study
+
+# Overview
+
 This case study explores the Playstore Apps data, derived from Kaggle, and cleaned using Python before loading into a MySQL Workbench. The data includes various details about apps on the Playstore, such as their category, rating, reviews, size, number of installs, type (free or paid), price, content rating, genres, last update, current version, and Android version.
 
 
-Key Insights
+# Key Insights
 The case study attempts to answer several key questions using SQL queries, providing valuable insights for different roles such as a market analyst, a business strategist, a data analyst, a database administrator, and more.
 
-Schema
+# Schema
 The database, named 'projects', contains a single table named 'playstore' with 9360 entries. The 'playstore' table includes the following columns:
 
-id (INT)
+. id (INT)
 
 App (TEXT)
 
