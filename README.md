@@ -1,8 +1,8 @@
-# Playstore Apps - SQL Data Analysis Case Study
+# Shark_Tank - SQL Data Analysis Case Study
 
 ## Overview
 
-This case study explores the Playstore Apps data, derived from Kaggle, and cleaned using Python before loading into a MySQL Workbench. The data includes various details about apps on the Playstore, such as their category, rating, reviews, size, number of installs, type (free or paid), price, content rating, genres, last update, current version, and Android version.
+This project provides a comprehensive suite of SQL queries and procedures for analyzing the Shark Tank India dataset. It covers a wide range of real-world business questions, from investment patterns and industry trends to gender diversity and pitch conversion rates. 
 
 
 ## Key Insights
